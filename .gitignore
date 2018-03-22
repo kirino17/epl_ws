@@ -10,11 +10,12 @@
 # Precompiled Headers
 *.gch
 *.pch
+*.pdb
 
 # Compiled Dynamic libraries
 *.so
 *.dylib
-*.dll
+
 
 # Fortran module files
 *.mod
@@ -30,3 +31,10 @@
 *.exe
 *.out
 *.app
+
+Projects/demo.bak
+epl_ws/.vs
+epl_ws/Debug
+epl_ws/epl_ws/Debug
+epl_ws/epl_ws/Release
+epl_ws/packages

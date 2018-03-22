@@ -1,0 +1,13 @@
+LIBRARY "epl.ws.dll"
+
+EXPORTS
+WSLinkStart
+WSDestory
+WSLinkReadyState
+WSLinkByteLength
+WSLinkCopyTextBuffer
+WSLinkCopyBinaryBuffer
+WSLinkCursor
+WSLinkSend
+WSLinkSendb
+WSLinkClose
